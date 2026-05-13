@@ -2,8 +2,8 @@
 :root {
     --bg-color: #000000;
     /* Dark brown background */
-    --header-bg: url('DSC09015.JPG.jpeg');
-    --footer-bg: url('close-up-view-dark-fresh-roasted-coffee-beans-coffee-beans-background.jpg.jpeg');
+    --header-bg: url('DSC09015.JPG.webp');
+    --footer-bg: url('close-up-view-dark-fresh-roasted-coffee-beans-coffee-beans-background.jpg.webp');
     /* Black for header and footer */
     --primary-color: #ffffff;
     /* White text for header */
@@ -25,7 +25,7 @@ body {
     font-family: var(--font-main);
     background-color: var(--bg-color);
     color: var(--text-color);
-    line-height: 1.6;
+    line-height: 1.4;
     overflow-x: hidden;
 }
 
@@ -173,7 +173,7 @@ body {
     font-size: 1.15rem;
     color: var(--text-color);
     font-weight: 400;
-    line-height: 1.5;
+    line-height: 1.2;
 }
 
 .alc-icon {
@@ -246,7 +246,7 @@ body {
     font-size: 2.0rem;
     font-weight: 400;
     max-width: 450px;
-    line-height: 1.5;
+    line-height: 1.2;
 }
 
 .footer-text-container {
